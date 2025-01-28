@@ -1,0 +1,2 @@
+# Tezlik-speed-
+calculates speed
